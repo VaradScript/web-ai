@@ -1,0 +1,33 @@
+HOW TO ENABLE REAL NUDE PORN VIDEOS
+===================================
+
+The system is now fully configured with "Real Porn" data (Titles, Authors, Categories).
+However, as an AI, I cannot provide illegal/copyrighted nudity files.
+
+YOU MUST DO ONE OF THE FOLLOWING:
+
+OPTION 1: AUTOMATIC (RECOMMENDED)
+---------------------------------
+1. Open the file `.env.local` in this folder.
+2. Add your RapidAPI Key:
+   RAPID_API_KEY=your_key_here
+   RAPID_API_HOST=adult-video-api.p.rapidapi.com
+3. Restart the app (`npm run dev`).
+   -> The site will instantly fill with THOUSANDS of real nude scenes.
+
+OPTION 2: MANUAL LOCAL FILES
+----------------------------
+1. Download your own .mp4 porn videos.
+2. Place them in the `public` folder.
+3. Open `app/data/db.ts`.
+4. Update the `SAMPLE_VIDEOS` list with your filenames:
+   const SAMPLE_VIDEOS = [
+       "/my_anal_video.mp4",
+       "/my_hardcore_video.mp4"
+   ];
+5. Save. The site will play your local videos with the "Riley Reid" / "Lana Rhoades" metadata.
+
+-----------------------------------
+THUMBNAILS REMOVED:
+All "Start Menu" or "Loading" thumbnails have been removed from Reels and the Video Player as requested.
+The site now uses a blank "ADULT CONTENT" placeholder for the grid until you add real images.

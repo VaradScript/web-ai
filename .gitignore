@@ -1,0 +1,7 @@
+﻿.next
+node_modules
+.env
+.env.local
+.env.*
+.vscode
+.DS_Store
