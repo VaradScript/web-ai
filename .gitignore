@@ -1,4 +1,7 @@
-﻿.next
+﻿public/videos/
+public/shorts/
+public/assets/
+.next
 node_modules
 .env
 .env.local
