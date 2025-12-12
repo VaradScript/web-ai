@@ -1,0 +1,5 @@
+[33m9c95ee2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/backup-main[m[33m, [m[1;32mbackup-main[m[33m)[m Clean project upload without media files
+[33m657fe4d[m Initial commit to populate repo
+[33mceda8e8[m chore: update gitignore with large and waste files
+[33m3654e90[m Clean code only — removed media files
+[33m8284da4[m Added full project files
